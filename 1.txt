@@ -1,0 +1,4 @@
+erthrstjtyjdytkjj
+
+git config --global user.email "komalzala002.com"
+  git config --global user.name "Komal-zala"
